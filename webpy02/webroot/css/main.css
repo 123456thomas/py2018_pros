@@ -1,0 +1,19 @@
+div:{width: 1200px;
+	margin: 0 auto;
+}
+ul:{
+	width: 800px;
+	margin: 0 auto;
+	background-color: aquamarine;
+}
+li:{
+	width: 200px;
+	line-height: 40px;
+	text-align: center;
+	list-style-type: none;
+	display: inline-block;
+}
+#exch:{
+	color: red;
+	display: block;
+}

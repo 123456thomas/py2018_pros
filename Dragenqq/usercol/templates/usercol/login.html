@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dragen论坛</title>
+    {% block script %}
+    {% endblock %}
+    {% load static %}
+
+    <script src="/static/jquery/jquery-2.1.4.js"></script>
+    <script src="/static/tiny_mce/tiny_mce.js"></script>
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+    <style>
+        #a{
+            width:1200px;
+            margin:5px auto;
+        }
+        #a1{
+            width:800px;
+            margin:5px auto;
+        }
+        #a2{
+            width:500px;
+            margin:5px auto;
+        }
+    </style>
+</head>
+<body>
+    {% block content %}
+
+    <div id="a">
+        <div id="a1">
+            {% block con_head %}
+            <h3>登录吧,少年</h3>
+            {% endblock %}
+            <div id="a2">
+                {% block form %}
+            <form action="{% url 'usercol:userinfo' %}" method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label >用户名:</label>
+                    <input type="text" required class="form-control" placeholder="用户名" maxlength="50" autocomplete="off" name="username" value="">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">密码</label>
+                    <input type="password" required class="form-control" id="exampleInputPassword1" placeholder="6-12位" required name="pwd" value="">
+                </div>
+                <div class="form-group">
+                    <label >验证码:</label>
+                    <input type="text" maxlength="10" autocomplete="off" name="code" value="">
+                    <img src="{% url 'usercol:yanzheng' %}" alt="" onclick="refrish(this)">
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-default">提交</button>
+                    <button type="reset" class="btn btn-default">重置</button>
+                </div>
+            </form>
+
+            {% endblock %}
+            <h4 >{{msg}}</h4>
+            </div>
+
+        </div>
+
+
+    <script>
+    {% block textarea %}
+        tinyMCE.init({
+            "mode":"textareas",
+            "theme":"advanced",
+            "width":500,
+            "height":300
+        })
+    {% endblock %}
+    {% block yanzheng %}
+        function refrish(node){
+            node.src = "/usercol/yanzheng/?seach=" +Math.random();
+        }
+    {% endblock %}
+    {% block else %}
+    {% endblock %}
+
+
+    </script>
+    </div>
+
+    {% endblock %}
+</body>
+</html>

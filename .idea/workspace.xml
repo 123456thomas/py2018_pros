@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d47d4125-7883-4373-a267-503f9aa6b53c" name="Default Changelist" comment="migo项目提交">
+      <change afterPath="$PROJECT_DIR$/.idea/Py1809Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/Bocke/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/Bocke/templates/Bobo/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/blog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/blog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/day125/blog/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dj_project/homework1203.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dragenqq/static/upload/head/yanhua_XnXyfbR.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dragenqq/usercol/templates/usercol/addone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dragenqq/whoosh_index/MAIN_01trf98cls0rdu9v.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/static/Bocke/imgs/im001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/templates/Bocke/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/templates/Bocke/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/templates/Bocke/login_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/templates/Bocke/regist_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/templates/Bocke/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/Bocke/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/FireFish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/FireFish/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/FireFish/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/FireFish/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/FireFish/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/temp/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/views1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireFish/xiucd/views2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearn/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearn/.ipynb_checkpoints/deeplea-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearn/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearn/deeplea.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/arial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/migrations/0002_auto_20181227_1600.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/templates/cars/carorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/templates/cars/myorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/templates/cars/paysgoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/cars/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/migrations/0002_cllocter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/templates/goods/detailinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/templates/goods/goodsinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/templates/goods/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/templates/goods/updategoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/templates/goods/upgoods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/goods/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/iceberg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/iceberg/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/iceberg/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/iceberg/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/css/etalage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/arrow2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/faa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/faa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/get.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/gpluse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/imgimg-sprite-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/men.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/men1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/men2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/p111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pi4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/po6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/pr_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/sin4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/tick1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/women.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/images/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/- http   w3layouts.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/addr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/easyResponsiveTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/jquery.etalage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/jquery.jscrollpane.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/jquery.wmuSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js_num/indexjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/js_num/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/ch02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/ch02_Jf20kN7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/coat01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/coat01_lENt7BR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/faa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/faa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hat02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hat02_85MKbux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl01_3m4dNl9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl01_Xy05nZn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl01_keKEzTH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl02_NuushCj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl04_WmzIczJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/hl05_KjzvvPe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/meiqin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/men.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/nanjiren.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/p111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/pi4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/pi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/po6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/shoes01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/shoes01_KoexpDx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/shoes02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/shoes02_9qfH9wd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/yurongfu0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/goods/yurongfu0_yVYlrkX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin_CwijbkA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin_KxadjVD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin_PGP9y8j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin_cEfkeFv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/meiqin_pm8eEvy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/head/yanhua.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/store/hanlan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/store/hat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/store/hat_rV1dG4k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/store/table_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/static/upload/store/yanhua.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/templates/store/collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/templates/store/men.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/templates/store/updatestore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/templates/store/women.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/store/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/static/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/addaddress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/baseinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/createstore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/email_active.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/logins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/ordered.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/phone_regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/updateuser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/templates/users/userinfor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceberg/utils/yunpian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.15.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__config__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_distributor_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_import_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/add_newdocs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/dual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/bench.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/mrecords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_deprecations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_mrecords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_old_ma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/testutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/timer_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/f2py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wifi_pwd/csdwifi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/test08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/test08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/venv/Lib/site-packages/future/moves/test/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/venv/Lib/site-packages/future/moves/test/support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/venv/Lib/site-packages/future/standard_library/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/venv/Lib/site-packages/future/standard_library/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migo/migo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/migo/migo/settings.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1755746211">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="114" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.137" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.140" value="1" />
+          <entry key="project.open.time.143" value="1" />
+          <entry key="project.open.time.152" value="1" />
+          <entry key="project.open.time.186" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.197" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.235" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.256" value="1" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.28" value="5" />
+          <entry key="project.open.time.29" value="7" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="4" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.346" value="1" />
+          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.38" value="5" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="6" />
+          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="6" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.560" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="2" />
+          <entry key="project.open.time.59" value="2" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="2" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.72" value="2" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.82" value="2" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.opened" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="3" />
+          <entry key="css" value="13" />
+          <entry key="csv" value="25" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="317" />
+          <entry key="ipynb" value="7" />
+          <entry key="jpg" value="29" />
+          <entry key="js" value="7" />
+          <entry key="json" value="32" />
+          <entry key="log" value="2" />
+          <entry key="mp3" value="1" />
+          <entry key="png" value="87" />
+          <entry key="py" value="1122" />
+          <entry key="pyi" value="7" />
+          <entry key="rnc" value="1" />
+          <entry key="svg" value="1" />
+          <entry key="txt" value="40" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="317" />
+          <entry key="IPNB" value="7" />
+          <entry key="Image" value="117" />
+          <entry key="JSON" value="32" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="Python" value="1120" />
+          <entry key="PythonStub" value="7" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SVG" value="1" />
+          <entry key="Scratch" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="32" />
+          <entry key="css" value="473" />
+          <entry key="csv" value="1" />
+          <entry key="dummy" value="48" />
+          <entry key="html" value="23867" />
+          <entry key="js" value="4" />
+          <entry key="py" value="124371" />
+          <entry key="txt" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="473" />
+          <entry key="HTML" value="23867" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="98" />
+          <entry key="Python" value="124317" />
+          <entry key="Scratch" value="86" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Py1809Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/spiders/moves.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <marker date="1548590360482" expanded="true" signature="713:718" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/SunSpider/SunSpider/spiders/Sun2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190123/code20190123/douyuspider/douyuspider/spiders/douyu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project/mathpro.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/Project_3.6/AI_projects/DataAnalysis/mongofile/mongo_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Project_3.6/AI_projects/新建文件夹/Untitled1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;h2&gt;</find>
+      <find>h3</find>
+      <find>h2</find>
+      <find>ntes_foot_link</find>
+      <find>news_item</find>
+      <find>小米8青春版 镜面渐变AI双摄 6GB+64GB 梦幻蓝 骁龙 全网通4G 双卡双待 全面屏拍照游戏智能</find>
+      <find>HEPYXFLR_search-location</find>
+      <find>text-column-item box box-790</find>
+      <find>&lt;div class=&quot;view&quot; &gt;</find>
+      <find>images</find>
+      <find>expected_conditions</find>
+      <find>EC</find>
+      <find>By</find>
+      <find>你好</find>
+      <find>close</find>
+      <find>save</find>
+      <find>corp</find>
+      <find>con</find>
+      <find>J_Message</find>
+      <find>IMAGES_STORE</find>
+      <find>SPIDER_MIDDLEWARES</find>
+      <find>get_proxy</find>
+      <find>driver</find>
+      <find>#</find>
+      <find>救赎</find>
+      <find>马修</find>
+      <find>美丽</find>
+      <find>肖生克</find>
+      <find>狮子王</find>
+      <find>美丽心灵</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href=&quot;/static/css</replace>
+      <replace>src=&quot;/static/js</replace>
+      <replace>src=&quot;/static/images</replace>
+      <replace>imags</replace>
+      <replace>corp1</replace>
+      <replace>corpt</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="123456thomas &lt;17625809083@sina.cn&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/iceberg/users/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Project_3.6/pachong108/models/pachong01.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FireFish/FireFish/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dj_project/Dj01/Dj01/view.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dragenqq/usercol/utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dj_project/homework1203.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dj_project/Dj01/Athur/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/shujuku/database01.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dragenqq/usercol/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dj_project/Dj01/user/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/webpy02/webserver01.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Project/pythonsup/deeplearn01.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/Project_3.6/spider21/suntalk/suntalk/items.py" />
+        <option value="D:/Project_3.6/spider21/suntalk/suntalk/settings.py" />
+        <option value="D:/Project_3.6/spider21/suntalk/suntalk/pipelines.py" />
+        <option value="D:/Project_3.6/spider21/douban/douban/spiders/movie.py" />
+        <option value="D:/Project_3.6/python量化基础/k_line.py" />
+        <option value="D:/Project_3.6/spiser1.19/myspider_pro/myspider_pro/settings.py" />
+        <option value="D:/Project_3.6/spiser1.19/myspider_pro/myspider_pro/spiders/taobao.py" />
+        <option value="D:/Python_sup/爬虫/python1809/python1809/20190109/code20190109/urllibtest_02_cookie登录人人网.py" />
+        <option value="D:/Project_3.6/spiser1.19/taobao2.py" />
+        <option value="D:/Project_3.6/spiser1.19/workers/useragent.py" />
+        <option value="D:/Project_3.6/spiser1.19/workers/workers/middlewares.py" />
+        <option value="D:/Project_3.6/spider21/suntalk/suntalk/spiders/sun0769.py" />
+        <option value="D:/Project_3.6/spiser1.19/workers/workers/UAtest.py" />
+        <option value="D:/Project_3.6/spider122/sinaboke/sinaboke/items.py" />
+        <option value="D:/Project_3.6/spider122/sinaboke/sinaboke/settings.py" />
+        <option value="D:/Project_3.6/spider122/sinaboke/sinaboke/spiders/sinablog.py" />
+        <option value="D:/Project_3.6/spider123/douyuimg/douyuimg/items.py" />
+        <option value="D:/Project_3.6/spider123/douyuimg/douyuimg/spiders/capidouyu.py" />
+        <option value="D:/Project_3.6/spider123/douyuimg/douyuimg/pipelines.py" />
+        <option value="D:/Project_3.6/spider123/douyuimg/douyuimg/settings.py" />
+        <option value="D:/Project_3.6/spider122/sinaboke/sinaboke/spiders/sina.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/items.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/pipelines.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/spiders/suncrawl.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/spiders/suncraw2.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/spiders/suncraw3.py" />
+        <option value="D:/Project_3.6/suntalk/suntalk/settings.py" />
+        <option value="D:/Project_3.6/AI_projects/DataAnalysis/numpy01.py" />
+        <option value="D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/SunSpider/SunSpider/spiders/Sun2.py" />
+        <option value="D:/Project_3.6/spiser1.19/workers/workers/pipelines.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/pipelines.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/items.py" />
+        <option value="D:/Python_sup/AI/课件代码/20190126/code20190126/案例：美国总统大选民调数据分析.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/IpAgent_pool.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/ghostdriver.log" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/middlewares.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/middlewares.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/items.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/pipelines.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/IpAgent_pool.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/spiders/oreilly.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/settings.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/IpAgent_pool.py" />
+        <option value="D:/Project_3.6/AI_projects/tushu/tushu/orei.csv" />
+        <option value="D:/Project_3.6/AI_projects/tushu/oreilly.csv" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/settings.py" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/douyu.csv" />
+        <option value="D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/spiders/moves.py" />
+        <option value="$PROJECT_DIR$/Project/mathpro.csv" />
+        <option value="$PROJECT_DIR$/Project/test08.py" />
+        <option value="D:/Project_3.6/AI_projects/DataAnalysis/mongofile/mongo_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-163" />
+    <option name="y" value="20" />
+    <option name="width" value="1382" />
+    <option name="height" value="783" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Py1809Project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Py1809Project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Py1809Project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Py1809Project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="site-packages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Py1809Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py1809Project" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="Py1809Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Py1809Project" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Py1809Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="D:/Project_3.6" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_3.6\AI_projects\新建文件夹" />
+      <recent name="D:\Project_3.6\AI_projects\tushu\tushu" />
+      <recent name="D:\Project_3.6\AI_projects\searchdata1_25\doubanmove" />
+      <recent name="D:\Py1809Project\migo\static\images\goodstype" />
+      <recent name="D:\Project_3.6\spider1.17\homework1.17" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_3.6\AI_projects\searchdata1_25\doubanmove\doubanmove" />
+      <recent name="D:\Project_3.6\Scrapy_files" />
+      <recent name="D:\Project_3.6\spider122\sinaboke\sinaboke\spiders" />
+      <recent name="D:\Project_3.6\spider1.18" />
+      <recent name="D:\Project_3.6\spider1.17" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mongo_1">
+    <configuration name="Py1809Project" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\SoftWares\python3.7\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="192.168.12.23" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dianming" type="PythonConfigurationType" factoryName="Python">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Dianming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IpAgent_pool (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/IpAgent_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IpAgent_pool (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project_3.6/AI_projects/tushu/tushu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Project_3.6/AI_projects/tushu/tushu/IpAgent_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IpAgent_pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project_3.6/AI_projects/searchdata1_25/doubanmove" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Project_3.6\AI_projects\searchdata1_25\doubanmove\doubanmove\IpAgent_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mongo_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project_3.6/AI_projects/DataAnalysis/mongofile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Project_3.6/AI_projects/DataAnalysis/mongofile/mongo_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py1809Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/test08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Dianming" />
+      <item itemvalue="Jupyter Notebook.Py1809Project" />
+      <item itemvalue="Python.IpAgent_pool" />
+      <item itemvalue="Python.IpAgent_pool (1)" />
+      <item itemvalue="Python.test08" />
+      <item itemvalue="Python.IpAgent_pool (2)" />
+      <item itemvalue="Python.mongo_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mongo_1" />
+        <item itemvalue="Python.test08" />
+        <item itemvalue="Python.IpAgent_pool (1)" />
+        <item itemvalue="Python.IpAgent_pool (2)" />
+        <item itemvalue="Python.IpAgent_pool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d47d4125-7883-4373-a267-503f9aa6b53c" name="Default Changelist" comment="" />
+      <created>1536923727286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536923727286</updated>
+    </task>
+    <task id="LOCAL-00001" summary="migo项目提交">
+      <created>1547014145184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547014145184</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spider项目提交">
+      <created>1547379194488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547379194488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="migo项目提交">
+      <created>1547822768995</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547822768995</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-163" y="20" width="1382" height="783" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.390625" visible="true" weight="0.16369048" />
+      <window_info id="Structure" order="1" sideWeight="0.24223602" side_tool="true" weight="0.23255815" />
+      <window_info id="Favorites" order="2" sideWeight="0.609375" side_tool="true" weight="0.23255815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49702382" weight="0.3858785" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.84151787" visible="true" weight="0.1558642" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80803573" weight="0.43678162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.7873754" weight="0.32561728" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="104" y="411" width="1054" height="381" id="Terminal" order="8" sideWeight="0.84300596" weight="0.52469134" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15848215" side_tool="true" weight="0.2459605" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49811321" weight="0.3253833" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.390625" visible="true" weight="0.16369048" />
+      <window_info id="Structure" order="1" sideWeight="0.24223602" side_tool="true" weight="0.23255815" />
+      <window_info id="Favorites" order="2" sideWeight="0.609375" side_tool="true" weight="0.23255815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49702382" weight="0.3858785" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.84151787" visible="true" weight="0.30246913" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.80803573" weight="0.43678162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.7873754" weight="0.3270869" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="104" y="411" width="1054" height="381" id="Terminal" order="8" sideWeight="0.84300596" weight="0.125" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.15848215" side_tool="true" weight="0.2459605" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49811321" weight="0.3253833" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spider项目提交" />
+    <MESSAGE value="migo项目提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="migo项目提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dragenqq/mysearch/whoosh_cn_backend.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Project_3.6/spiser1.19/workers/workers/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/spiser1.19/workers/workers/spiders/bilibili.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/spiser1.19/workers/workers/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/DataAnalysis/numpy01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190121/code20190121/billbill/billbill/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/LoginSpider/LoginSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3028">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/fake_useragent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/fake_useragent/fake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4266">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/billbill/billbill/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/AI/课件代码/20190126/code20190126/案例：美国总统大选民调数据分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="134" column="5" lean-forward="true" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_上/20190117/code20190117/案例：代理ip池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/LoginSpider/LoginSpider/spiders/renren1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/billbill/billbill/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="123" column="49" selection-start-line="123" selection-start-column="49" selection-end-line="123" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/mindiao/mindiao.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/IpAgent_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1285">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/IpAgent_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="154" column="21" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/orei.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="38" column="17" selection-end-line="954" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/spider21/suntalk/suntalk/spiders/sun0769.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Project_3.6/spider21/douban/douban/spiders/movie.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Project_3.6/spider122/sinaboke/sinaboke/spiders/sinablog.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Project_3.6/spider122/sinaboke/sinaboke/spiders/sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1367" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/spider123/douyuimg/douyuimg/spiders/capidouyu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190124/code20190124(1)/SunDistributeSpider/SunDistributeSpider/spiders/Sun3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1151" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/spiders/oreilly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190124/code20190124(1)/JobSpider/JobSpider/spiders/pythonPosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-719" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/SunSpider/SunSpider/spiders/Sun1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/tushu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/AI/课件代码/20190127/code20190127/shoptest.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/douyu.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2340">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/searchdata1_25/doubanmove/doubanmove/spiders/moves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1548590360482" expanded="true" signature="713:718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190122/code20190122/SunSpider/SunSpider/spiders/Sun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/oreilly.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="161" column="5" lean-forward="true" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/tushu/numpy联系.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/新建文件夹/pandas入门.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/新建文件夹/Untitled1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_sup/爬虫/python1809/python1809/spider_中/20190123/code20190123/douyuspider/douyuspider/spiders/douyu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/test08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="569" column="14" selection-start-line="569" selection-start-column="14" selection-end-line="569" selection-end-column="14" />
+          <folding>
+            <marker date="1548657388501" expanded="true" signature="14775:15171" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/mathpro.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_spider/Lib/site-packages/pymongo/results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Project_3.6/AI_projects/DataAnalysis/mongofile/mongo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

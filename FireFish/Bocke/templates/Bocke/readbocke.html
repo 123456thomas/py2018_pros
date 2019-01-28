@@ -1,0 +1,12 @@
+{% extends 'login_success.html' %}
+{% block con_head %}
+{{author}}的创作足迹------
+{% endblock %}
+{% block table %}
+    <table border="5" cellspacing="1" cellpadding="2">
+        <tr><th width=120>标题</th><th width=300>文章</th><th width=150>时间</th></tr>
+        <tr><td>{{title}}</td><td>{{content}}</td><td>{{ctime}}</td></tr>
+
+    </table>
+
+{% endblock %}
